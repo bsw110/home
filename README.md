@@ -6,4 +6,4 @@ text page
 code page 
 image page
 
-end of the page
+end of the page..
